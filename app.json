@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "crossgfw",
+    "description": "Deploy crossgfw on heroku.",
+    "keywords": ["crossgfw"],
     "env": {
         "ID": {
             "description": "UUID",
